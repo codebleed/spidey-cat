@@ -5,7 +5,7 @@ Git repository to fulfill bare minimum project for Software Engineering class. C
 
 Official program name: Grade Management System (GMS) for Motherboard University
 
-Developed by: Bon Jovi, Sabrina Spellman, Sarah Connor
+Developed by: GROUP 4 (Bon Jovi, Sabrina Spellman, Sarah Connor)
 
 Scope:
 The “Grade Management System” is, at its core, a web-based application that allows students and teachers to view and input grades, respectively. The system allows grades to be arranged into several views available depending on their user type. The application requires no software downloads and can be used from any current major release web browser, on any platform.
